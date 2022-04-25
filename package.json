@@ -1,0 +1,27 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "mongodb nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasindusithmin/mongodb.git"
+  },
+  "author": "hasindusithmin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasindusithmin/mongodb/issues"
+  },
+  "homepage": "https://github.com/hasindusithmin/mongodb#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongodb": "^4.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
